@@ -2,14 +2,14 @@
 
   <h1>Hi there 👋</h1>
   <h2>I'm Adeeba Fatima</h2>
-
+</div>
   <p>
     🌱 Web Developer in Progress <br>
     💻 Learning HTML, CSS & JavaScript <br>
     🚀 Passionate about building websites
   </p>
 
-</div>
+
 
 <hr>
 
@@ -31,7 +31,7 @@
 <h3>📫 Contact</h3>
 <ul>
   <li>Email: your-email@example.com</li>
-  <li>GitHub: https://github.com/your-username</li>
+  <li>G</li>
 </ul>
 
 <div align="center">
