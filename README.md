@@ -1,4 +1,3 @@
-# <div align="center"> Hi there 👋</div>
 <div align="center" style="font-family: Arial, sans-serif;">
 
   <h1>Hi there 👋</h1>
@@ -38,4 +37,3 @@
 <div align="center">
   ⭐ Thanks for visiting my GitHub profile ⭐
 </div>
-
