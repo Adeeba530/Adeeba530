@@ -11,25 +11,23 @@
 
 ---
 
-<h2>🚀 About Me</h2>
+<h2> About Me</h2>
 
 <ul>
-  <li>🌱 Learning HTML, CSS, JavaScript</li>
+  <li> Learning HTML, CSS, JavaScript</li>
   <li>💻 Building small web projects</li>
-  <li>🎯 Goal: Become a Full-Stack Developer</li>
+  <li> Goal: Become a Full-Stack Developer</li>
   <li>📚 Always learning new technologies</li>
 </ul>
 
 ---
 
-<h2>🛠️ Skills</h2>
+<h2> Skills</h2>
+        <span>HTML5</span>
+        <span>CSS3</span>
+        <span>JavaScript</span>    
+        <span>Basic React</span>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
 
 ---
 
