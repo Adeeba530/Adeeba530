@@ -1,41 +1,15 @@
-<div align="center">
-
-  <h1>Hi, I'm Adeeba Fatima 👋</h1>
-
-  <p>
-    💻 I'm a beginner developer passionate about learning and building modern web projects.<br>
-    Currently improving my frontend development skills step by step.
-  </p>
-
-</div>
 
 ---
+ ## <div align="center">Hi, I'm Adeeba Fatima ✨ </div>
+## 💭 My Motivation
 
-<h2> About Me</h2>
+> *"Every expert was once a beginner."*
+--
+## 🚀 About Me
 
-<ul>
-  <li> Learning HTML, CSS, JavaScript</li>
-  <li>💻 Building small web projects</li>
-  <li> Goal: Become a Full-Stack Developer</li>
-  <li>📚 Always learning new technologies</li>
-</ul>
-
----
-<h2> Skills</h2>
-
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>Basic React</li>
-</ul>
+- 🌱 Currently mastering **HTML, CSS, JavaScript & React**
+- 💻 Building real-world frontend projects from scratch
+- 🎯 Long-term goal: Become a confident **Full-Stack Developer**
+- 📚 Lifelong learner — always exploring new tools & best practices
 
 ---
-
-<h2> Motivation</h2>
-
-<p><i>"Every expert was once a beginner."</i></p>
-
----
-
-⭐ Thanks for visiting my profile!
