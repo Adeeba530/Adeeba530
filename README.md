@@ -3,7 +3,7 @@
   <h1>Hi, I'm Adeeba Fatima 👋</h1>
 
   <p>
-    I'm a beginner developer passionate about learning and building modern web projects.<br>
+    💻 I'm a beginner developer passionate about learning and building modern web projects.<br>
     Currently improving my frontend development skills step by step.
   </p>
 
