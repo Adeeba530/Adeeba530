@@ -21,13 +21,14 @@
 </ul>
 
 ---
-<div>
 <h2> Skills</h2>
-        <span>HTML</span>,
-        <span>CSS</span>,
-        <span>JavaScript</span>,  
-        <span>Basic React</span>,
-</div>
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Basic React</li>
+</ul>
 
 ---
 
