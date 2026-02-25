@@ -23,10 +23,10 @@
 ---
 
 <h2> Skills</h2>
-        <span>HTML5</span>
-        <span>CSS3</span>
-        <span>JavaScript</span>    
-        <span>Basic React</span>
+        <span>HTML</span>,
+        <span>CSS</span>,
+        <span>JavaScript</span>,  
+        <span>Basic React</span>,
 
 
 ---
