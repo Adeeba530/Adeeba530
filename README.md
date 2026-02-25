@@ -32,7 +32,7 @@
 
 ---
 
-<h2>✨ Motivation</h2>
+<h2> Motivation</h2>
 
 <p><i>"Every expert was once a beginner."</i></p>
 
